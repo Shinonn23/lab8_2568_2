@@ -12,6 +12,5 @@ int main()
   if (rank == 'S' || rank == 'A' || rank == 'B') cout << "You have received 1 gems.\n";
   if (rank == 'S' || rank == 'A' || rank == 'B' || rank == 'C') cout << "You have received 2000 coins.\n";
   if (rank == 'S' || rank == 'A' || rank == 'B' || rank == 'C' || rank == 'D') cout << "You have received very KAK items.\n";
-
   return 0;
 }
